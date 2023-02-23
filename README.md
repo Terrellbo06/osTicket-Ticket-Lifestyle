@@ -25,26 +25,48 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-1.
-</p>
-<br />
+<h3>Intake</h3>
+Intake is when the user creates the ticket to the Help Desk. In this example, there are several different issues that have arose of varying priority. 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VzQ56K1.png" height="80%" width="80%" alt="1."/>
 </p>
-<p>
-2.
-</p>
-<br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GQGNUK5.png" height="80%" width="80%" alt="2."/>
 </p>
+
 <p>
-3.
+<img src="https://i.imgur.com/vdKyebK.png" height="80%" width="80%" alt="3."/>
 </p>
-<br />
+
+<p>
+<img src="https://i.imgur.com/MfI9Qh7.png" height="80%" width="80%" alt="4."/>
+</p>
+
+<h3>Assignment and Communication</h3>
+Usually, an administrator or manager/supervisor will manage which employee will handle which ticket. There are normally varying levels of priority when it comes to tickets so the person resposible for ticket assignment will determine that. In this example, Jane is assigning the ticket to herself. The issue is Sev-A and will need an experienced person to work the issue. 
+
+<p>
+<img src="https://i.imgur.com/YM6clFY.png" height="80%" width="80%" alt="5."/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/OZLgRO0.png" height="80%" width="80%" alt="6."/>
+</p>
+
+<h3>Working the Issue</h3>
+In this example, Jane is working the ticket by answering to the user. On the backend, Jane is working with another department to have the issue fixed. 
+
+<p>
+<img src="https://i.imgur.com/eeJ1NH5.png" height="80%" width="80%" alt="7."/>
+</p>
+
+<h3>Resolution</h3>
+In this final example, Jane was able to get the appropriate parties notified of the issue and get it resolved. Ticket was closed. 
+
+<p>
+<img src="https://i.imgur.com/9gNXYf4.png" height="80%" width="80%" alt="8."/>
+</p>
+
+Congratulations, the ticket was resolved and you worked your first ticket! Continue to work around osTicket to build intituition and repetition for working tickets. In the IT world, ticketing systems vital in how the work is managed!
